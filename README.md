@@ -11,12 +11,12 @@ Python 2.7.14rc1
 NumPy Version 1.13.3
 TensorFlow Version 1.4.0
 
-## For Our Code
+## TensorForce Implementation
 Python 2.7.14rc1
 NumPy Version 1.13.3
 TensorForce Version 0.3.2
 
-## How to run our code
+## How to run Tensorforce Code
 1. Unzip the NELL-995 dataset in the top level code directory of your project executing following command
    * `wget http://cs.ucsb.edu/%7Exwhan/datasets/NELL-995.zip`
    * `unzip NELL-995.zip`
